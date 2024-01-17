@@ -13,5 +13,6 @@ foreach ($food as $groupkey=>$namekey){
     }
     echo "<br>";
     echo "<br>";
+    echo "<br>";
 }
 ?>
